@@ -1,0 +1,13 @@
+Здравствуйте, {{name}} {{surname}} {{patronymic}} ! Высылаю вам логин и пароль для входа
+
+в систему ДО do.psuti.ru:
+логин: {{to_the_DO_system}}
+пароль: {{password}}
+
+в систему тестирования test.psuti.ru (будет доступно с 13 января):
+логин: {{to_the_testing_system}} 
+пароль: {{password}}
+
+в систему MS Teams:
+логин: {{to_MS_Teams}}
+пароль: {{password}}
